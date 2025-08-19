@@ -40,6 +40,8 @@ Now click on `view -> Command Palette..` and then type **`Dev Containers: Rebuil
 
 Visual Studio Code will start the docker containers, open a Visual Studio Code instance inside of it and then install the extensions. See [devcontainer.json](.devcontainer/devcontainer.json) for details on the series of steps that are executed in this stage.
 
+![Devcontainer Start](./assets/gifs/devcontainer.GIF)
+
 Your Spark development environment is ready, go to the post at [Setting up local development environment for Spark](https://www.startdataengineering.com/post/data-modeling-join-groupby/) for details on how to use this environment.
 
 ### CodeSpaces
