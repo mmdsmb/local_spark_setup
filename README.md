@@ -1,6 +1,6 @@
-# [WIP] Setting up local development environment for Spark
+# Setting up local development environment for Spark
 
-Code for post at [Setting up local development environment for Spark](https://www.startdataengineering.com/post/data-modeling-join-groupby/)
+Code for post at [Setting up local development environment for Spark](https://www.startdataengineering.com/post/spark-local-setup/)
 
 The objective of this repo is to provide a simple-to-setup way to run & develop on Spark locally.
 
