@@ -1,6 +1,15 @@
-# Setting up local development environment for Spark
+* [How to quickly set up a local Spark development environment?](#how-to-quickly-set-up-a-local-spark-development-environment)
+    * [Setup](#setup)
+        * [Local](#local)
+            * [Prerequisites](#prerequisites)
+        * [CodeSpaces](#codespaces)
+    * [Features](#features)
+    * [Architecture](#architecture)
+    * [Spinning down infrastructure](#spinning-down-infrastructure)
 
-Code for post at [Setting up local development environment for Spark](https://www.startdataengineering.com/post/spark-local-setup/)
+# How to quickly set up a local Spark development environment?
+
+Code for post at [How to quickly set up a local Spark development environment?](https://www.startdataengineering.com/post/spark-local-setup/)
 
 The objective of this repo is to provide a simple-to-setup way to run & develop on Spark locally.
 
@@ -21,7 +30,7 @@ To setup this Spark environment locally you'll need.
 
 **Windows users**: please setup WSL and a local Ubuntu Virtual machine following **[the instructions here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)**. Install the above prerequisites on your ubuntu terminal; if you have trouble installing docker, follow **[the steps here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04#step-1-installing-docker)** (only Step 1 is necessary).
 
-You **`do not need to instally anything else directly on your computer`**.
+You **`do not need to install anything else directly on your computer`**.
 
 Once you have the pre-requisites, fork this Spark repo as shown below.
 
@@ -42,7 +51,7 @@ Visual Studio Code will start the docker containers, open a Visual Studio Code i
 
 ![Devcontainer Start](./assets/gifs/devcontainer.GIF)
 
-Your Spark development environment is ready, go to the post at [Setting up local development environment for Spark](https://www.startdataengineering.com/post/data-modeling-join-groupby/) for details on how to use this environment.
+Your Spark development environment is ready, go to the post at [How to quickly set up a local Spark development environment?](https://www.startdataengineering.com/post/data-modeling-join-groupby/) for details on how to use this environment.
 
 ### CodeSpaces
 
@@ -58,7 +67,10 @@ Click on this button to fork this repo and start a codespace environment.
 
 ## Features
 
-TODO: Add feature list from article
+1. [Running & debugging Spark interactively and as a script](https://www.startdataengineering.com/post/spark-local-setup/#31-run-code-interactively-with-jupyter-notebook)
+2. [Using Spark UI to explore how Spark is processing our data](https://www.startdataengineering.com/post/spark-local-setup/#33-explore-spark-performance-with-the-spark-ui)
+3. [Viewing Iceberg data in its location and exploring Parquet data with Data Wrangler](https://www.startdataengineering.com/post/spark-local-setup/#34-examine-iceberg-data-with-data-wrangler-local-only)
+4. [Overview of how devcontainer sets up our local dev environment](https://www.startdataengineering.com/post/spark-local-setup/#35-devcontainers-make-it-easy-to-set-up-a-local-spark-environment)
 
 ## Architecture
 
