@@ -52,7 +52,7 @@ Note that there is a [free limit](https://github.com/pricing), which should be s
 
 Click on this button to fork this repo and start a codespace environment.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=1035952742&ref=main&devcontainer_path=.devcontainer%2Fdevcontainer.json)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=1040634331&ref=main&devcontainer_path=.devcontainer%2Fdevcontainer.json&geo=UsEast)
 
 **Note** Ensure that the code space environment is shut down after use.
 
