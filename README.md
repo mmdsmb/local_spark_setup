@@ -28,8 +28,6 @@ To setup this Spark environment locally you'll need.
 3. A computer with at least 4GB RAM.
 4. [Visual Studio Code](https://code.visualstudio.com/download)
 
-**Windows users**: please setup WSL and a local Ubuntu Virtual machine following **[the instructions here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)**. Install the above prerequisites on your ubuntu terminal; if you have trouble installing docker, follow **[the steps here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04#step-1-installing-docker)** (only Step 1 is necessary).
-
 You **`do not need to install anything else directly on your computer`**.
 
 Once you have the pre-requisites, fork this Spark repo as shown below.
