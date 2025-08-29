@@ -17,7 +17,7 @@
 ---
 services:
   spark-iceberg:
-    image: tabulario/spark-iceberg
+    image: tabulario/spark-iceberg:3.5.5_1.8.1 # tabulario/spark-iceberg
     container_name: spark-iceberg
     networks:
       iceberg_net:
