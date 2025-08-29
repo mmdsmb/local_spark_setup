@@ -1,3 +1,4 @@
+quand mon repo ou c mon fork est  public 
 verifit
 git config --global user.name
 git config --global user.email
